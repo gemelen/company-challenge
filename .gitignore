@@ -1,2 +1,16 @@
 *.class
 *.log
+
+.bloop/
+.bsp/
+.idea
+.idea/*
+.idea_modules
+.metals/
+project/boot
+project/project/**
+project/metals.sbt
+target
+
+.*.swp
+.DS_Store
